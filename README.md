@@ -224,7 +224,7 @@ These assets are proprietary and intended for personal professional use only. Th
 
 ## 📫 Contact
 
-**Suren Jewels**  
+**SurenA Jewels**  
 Senior Cloud Engineer | Infrastructure & Security Specialist
 
 *For branding inquiries or collaboration opportunities, please reach out via LinkedIn.*
